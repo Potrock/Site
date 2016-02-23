@@ -11,7 +11,7 @@ html {
   background: black;
 }
 body {
-  background: url(assets/TorontoLandscape.jpg) no-repeat;
+  background: url(assets/TorontoSkyline.jpg) no-repeat;
   background-size: cover;
   background-attachment: fixed;
   margin: 0;
